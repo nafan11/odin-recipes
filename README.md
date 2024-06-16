@@ -1,0 +1,1 @@
+/** In this project, I will demonstrate basic HTML syntax as well as basic front-end web page development. Excited to finally make something from start to finish! **/
