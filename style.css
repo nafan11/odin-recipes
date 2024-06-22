@@ -1,0 +1,26 @@
+* {
+    background-color: #DAF7A6;
+}
+
+h1,
+.recipe-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.recipe-link {
+    color: #900C3F;
+    font-size: 18px;
+    list-style: none;
+    margin-left: -1em;
+}
+
+.dish-name {
+    font-size: 34px;
+}
+
+.recipe-pic {
+    display: grid;
+    place-items: center;
+}
