@@ -2,6 +2,10 @@
     background-color: #DAF7A6;
 }
 
+h1 {
+    text-shadow: 1px 1px 1px grey;
+}
+
 h1,
 .recipe-link {
     display: flex;
@@ -23,4 +27,9 @@ h1,
 .recipe-pic {
     display: grid;
     place-items: center;
+}
+
+img {
+    box-shadow: 0 0 0.3em 0.3em rgba(49, 45, 45, 0.3);
+    border-radius: 5px;
 }
