@@ -1,5 +1,6 @@
 * {
     background-color: #ddf4b4;
+    box-sizing: border-box;
 }
 
 .header,
@@ -11,7 +12,18 @@ h2 {
     text-shadow: 1px 1px 1px grey;
 }
 
+.main {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 32px;
+    background-color: #0f0f2d;
+    color: #fff;
+    border-bottom: 4px solid #fff;
+  }
+
+
 h1,
+h2,
 .recipe-link {
     display: flex;
     align-items: center;
