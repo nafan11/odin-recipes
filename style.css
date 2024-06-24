@@ -37,4 +37,6 @@ h1,
 img {
     box-shadow: 0 0 0.3em 0.3em rgba(49, 45, 45, 0.3);
     border-radius: 5px;
+    width: 350px;
+    height: auto;
 }
