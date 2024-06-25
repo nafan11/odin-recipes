@@ -1,6 +1,8 @@
 * {
     background-color: #ddf4b4;
     box-sizing: border-box;
+    padding-top: 0px;
+    margin-top: 0px;
 }
 
 .header,
@@ -14,15 +16,19 @@ h2 {
 
 #main {
     text-decoration: none;
+    padding: 0px;
+    margin: 0px;
 }
 
 .main {
     text-align: center;
     text-transform: uppercase;
-    padding: 32px;
+    padding-top: 32px;
+    padding-bottom: 32px;
     background-color: #0f0f2d;
     color: #fff;
     border-bottom: 4px solid #fff;
+    margin: auto -1.4em;
   }
 
 h1,
@@ -38,6 +44,11 @@ h2,
     font-size: 18px;
     list-style: none;
     margin-left: -1em;
+    padding-bottom: 0.2em;
+}
+
+#first-link {
+    padding-top: 1em;
 }
 
 .dish-name {
